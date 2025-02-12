@@ -1,0 +1,5 @@
+# Ignorar arquivos do Eclipse
+.metadata/
+.settings/
+bin/
+*.class
